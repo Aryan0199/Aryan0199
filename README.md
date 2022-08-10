@@ -1,4 +1,4 @@
-<img align="center" alt="AI" width=100% src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif">
+<img align="center" alt="AI" width=100% height="300px" src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif">
 <h1 align="center">Hi 👋, I'm Aryan .</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan0199" alt="aryan0199" /></a> </p>
