@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan .</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="center" alt="AI" width="300" src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
+<img align="center" alt="AI" width=100% src="https://c.tenor.com/Lbfyti3y8UkAAAAC/machine-learning-artificial-intelligence.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan0199" alt="aryan0199" /></a> </p>
 
 - 🔭 I’m currently working on [Start-up Success Predication using Predictive Analysis](https://github.com/Aryan0199/Start-up-Success-Prediction-Using-Predictive-Analysis)
